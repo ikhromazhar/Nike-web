@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "RightGrotesk";
+  src: url("./Font/RightGrotesk-CompactBlack.otf")
+}
+@font-face {
+  font-family: "NeueMontreal";
+  src: url("./Font/NeueMontreal-Regular.otf")
+}
+@font-face {
+  font-family: "SupplyLight";
+  src: url("./Font/Supply-Light.otf")
+}
+
+.bgActive{
+	background-color: #111827;
+	transition: all ease-in-out;
+	transition-duration: 1s;
+	color: #F4F0E5;
+	border-color: all #F4F0E5;
+}
+.bgAja{
+	background-color: #F4F0E5;
+	color: #FE3C00;
+	border-color: none;
+	transition: all ease-in-out;
+	transition-duration: 1s;
+   
+}
